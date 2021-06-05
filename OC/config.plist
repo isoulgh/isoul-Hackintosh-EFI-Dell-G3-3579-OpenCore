@@ -1214,21 +1214,21 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02807701QXJP4FJC</string>
+			<string></string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>gNtgkKdI</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro15,2</string>
+			<string></string>
 			<key>SystemSerialNumber</key>
-			<string>C02C90BTJHCC</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>96A94B98-7E6C-42B2-B9D1-CF6FA00A32BA</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>

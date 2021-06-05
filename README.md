@@ -49,6 +49,7 @@
 - Wi-Fi
 - Thunderbolt（接着设备开机后可热拔插暂时使用，接着设备睡眠后可用，睡眠后雷电失效）
 - Thunderbolt外接显示器可用（MacBookPro15,2）
+- 注意：未添加机型信息，请自行添加，可添加为MacBookPro15,2
 
 ## 不工作的部分
 
