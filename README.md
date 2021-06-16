@@ -1,0 +1,1 @@
+# isoul-Hackintosh-EFI-Dell-G3-3579-OpenCore
