@@ -1,6 +1,6 @@
 # isoul-Hackintosh-EFI-Dell-G3-3579-OpenCore
 
-# OC版本0.7.4
+# OC版本0.7.4--macOS12.0(beta 6)
 这是我使用的EFI备份，也欢迎各位hxd借鉴，提出宝贵的意见，嘻嘻。
 
 ## Features
