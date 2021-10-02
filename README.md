@@ -1,6 +1,6 @@
 # isoul-Hackintosh-EFI-Dell-G3-3579-OpenCore
 
-# OC版本0.7.1
+# OC版本0.7.4
 这是我使用的EFI备份，也欢迎各位hxd借鉴，提出宝贵的意见，嘻嘻。
 
 ## Features
@@ -50,7 +50,7 @@
 
 ## 工作的部分
 
-- macOS 11.4（经测试可直升）
+- macOS 12.0（经测试可直升）
 - CPU
 - 核心显卡
 - 有线网卡
