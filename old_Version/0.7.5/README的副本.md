@@ -1,10 +1,7 @@
 # isoul-Hackintosh-EFI-Dell-G3-3579-OpenCore
 
-# OC版本0.7.6--macOS12.0.1
+# OC版本0.7.5--macOS12.0.1
 这是我使用的EFI备份，也欢迎各位hxd借鉴，提出宝贵的意见，嘻嘻。
-
-## Notes
-1. Intel网卡需自己换驱动
 
 ## Features
 1. 可用Thunderbolt口任意外接显示器
