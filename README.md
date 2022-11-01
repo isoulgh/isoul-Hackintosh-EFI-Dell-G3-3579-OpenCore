@@ -1,6 +1,7 @@
 # isoul-Hackintosh-EFI-Dell-G3-3579-OpenCore
 
 # OC 0.8.5/macOS 13.0 (22A380)
+## 🌟转载请注明出处！
 这是我个人使用的EFI备份，欢迎各位hxd借鉴，提出宝贵的意见。
 
 ## 一、安装提示
